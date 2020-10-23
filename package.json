@@ -1,0 +1,19 @@
+{
+  "name": "hostic-demo",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "npm run serve",
+    "serve": "hostic serve",
+    "build": "hostic build"
+  },
+  "license": "EUPL-1.2",
+  "devDependencies": {
+    "hostic": "^0.14.0"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.0.1",
+    "debug": "^4.2.0",
+    "postcss-nested": "^5.0.1",
+    "tailwindcss": "^1.9.6"
+  }
+}
